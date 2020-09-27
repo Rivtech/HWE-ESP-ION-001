@@ -2,6 +2,7 @@
 ![alt text](Banner.jpg "HWE-ESP-ION-001")
 
 Die auf diesem GitHub Repository bereitgestellten Informationen und Ressourcen sollen Ihnen beim Einstieg und der Umsetzung Ihres Projektes helfen. 
+* [Boardinformation](/Boardiformation)
 
 An dieser Stelle möchten wir uns dafür bedanken, dass Sie sich für unser Dev.-Board entschieden und uns damit Ihr Vertrauen entgegengebracht haben. 
 
