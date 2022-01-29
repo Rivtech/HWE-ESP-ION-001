@@ -8,4 +8,4 @@ Die auf diesem GitHub Repository bereitgestellten Informationen und Ressourcen s
 
 An dieser Stelle möchten wir auch die Gelegenheit nutzen und uns dafür bedanken, dass Sie sich für unser Dev.-Board entschieden und uns damit Ihr Vertrauen entgegengebracht haben. 
 
-Wenn Sie Verbesserungsanregungen haben können Sie uns gerne hier eine Nachricht zukommen lassen oder dies über eine [Produktrezession](https://www.amazon.de/) tun, damit auch andere Kunden von Ihrer Erfahrung und Ihren Anregungen profitieren. Bis dahin wünschen wir Ihnen viel Spaß mit dem Board und Erfolg bei Ihrem Projekt.  
+Wenn Sie Verbesserungsanregungen haben können Sie uns gerne hier eine Nachricht zukommen lassen oder dies über eine [Produktrezession](https://www.amazon.de/dp/B08HQM694V) tun, damit auch andere Kunden von Ihrer Erfahrung und Ihren Anregungen profitieren. Bis dahin wünschen wir Ihnen viel Spaß mit dem Board und Erfolg bei Ihrem Projekt.  
