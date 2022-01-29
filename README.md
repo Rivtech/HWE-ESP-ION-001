@@ -3,6 +3,8 @@
 
 Die auf diesem GitHub Repository bereitgestellten Informationen und Ressourcen sollen Ihnen beim Einstieg und der Umsetzung Ihres Projektes helfen. 
 * [Boardinformationen](https://github.com/Rivtech/HWE-ESP-ION-001/tree/master/Boardinformation)
+* [USB-UART Treiber](https://github.com/Rivtech/HWE-ESP-ION-001/tree/master/USB-UART%20Treiber)
+
 
 An dieser Stelle möchten wir auch die Gelegenheit nutzen und uns dafür bedanken, dass Sie sich für unser Dev.-Board entschieden und uns damit Ihr Vertrauen entgegengebracht haben. 
 
